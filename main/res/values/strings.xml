@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Team Edukat</string>
+    <string name="question1">Which of these methods of the class String is used to obtain length of String object?</string>
+    <string name="ans1a">get()</string>
+    <string name="ans1b">Sizeof()</string>
+    <string name="ans1c">lengthof()</string>
+    <string name="ans1d">length()</string>
+    <string name="correctAns1">length()</string>
+    <string name="question2">Which of these methods is an alternative to getChars() that stores the characters in an array of bytes?</string>
+    <string name="ans2a">getBytes()</string>
+    <string name="ans2b">GetByte()</string>
+    <string name="ans2c">giveByte()</string>
+    <string name="ans2d">Give Bytes()</string>
+    <string name="correctAns2">getBytes()</string>
+    <string name="question3">What will be the output of the given code snippet?
+\n
+        static void main(String args[])\n
+        {\n
+        char chars[] = {\'x\', \'y\', \'z\'};\n
+        String s = new String(chars);\n
+        Console.WriteLine(s);\n
+        }\n</string>
+
+    <string name="correctAns3">xyz</string>
+
+    <string name="question4">Choose all the methods of class String</string>
+    <string name="ans4a">Remove()</string>
+    <string name="ans4b">charAt()</string>
+    <string name="ans4c">int.Parse()</string>
+    <string name="ans4d">Replace()</string>
+    <string name="correctAns4">Remove(), charAt(), Replace()</string>
+
+    <string name="question5">How to print \\\\ on the screen?</string>
+    <string name="ans5a">Console.WriteLine(\"\\\\\");</string>
+    <string name="ans5b">Console.WriteLine(\"\\\\\\\");</string>
+    <string name="ans5c">Console.WriteLine(\"\\\\\\\\\");</string>
+    <string name="ans5d">Console.WriteLine(\"\\\\\\\\\\\\\");</string>
+    <string name="correctAns5">Console.WriteLine(\"\\\\\\\\\");</string>
+</resources>
